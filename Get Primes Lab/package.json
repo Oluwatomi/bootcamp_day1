@@ -1,0 +1,21 @@
+{
+  "name": "getprimeslab",
+  "version": "1.0.0",
+  "description": "Get Primes Lab",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "jasmine": "^2.5.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Duyile Oluwatomi John",
+  "license": "ISC"
+}
